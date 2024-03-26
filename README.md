@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+<a href="https://app.daily.dev/lego56371"><img src="https://api.daily.dev/devcards/v2/7vvekYCxy73nCxCdyw6B3.png?r=v8h&type=default" width="356" alt="Ross Cuttriss's Dev Card"/></a>
