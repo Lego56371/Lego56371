@@ -19,7 +19,4 @@ Here are some ideas to get you started:
 
 <a href="https://app.daily.dev/lego56371"><img src="https://api.daily.dev/devcards/v2/7vvekYCxy73nCxCdyw6B3.png?r=v8h&type=default" width="356" alt="Ross Cuttriss's Dev Card"/></a>
 
-![image](https://github.com/Lego56371/Lego56371/assets/122835439/d13c4985-f9cd-483d-b03d-7abde7c7f4ea)
-![image](https://github.com/Lego56371/Lego56371/assets/122835439/c3348754-4e4b-4092-9fbf-1fcdeba648a0)
-
 
